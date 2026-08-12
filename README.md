@@ -1,4 +1,4 @@
-# 🛠️OSINT Setup & Investigation Toolkit
+# OSINT Setup & Investigation Toolkit
 
 Repositório destinado à documentação e mapeamento de ferramentas e metodologias para investigações de fontes abertas (**OSINT - Open Source Intelligence**), validação de e-mails, rastreamento de presença digital e auditoria de vulnerabilidades públicas.
 
@@ -6,7 +6,7 @@ Repositório destinado à documentação e mapeamento de ferramentas e metodolog
 
 ##  Ferramentas Mapeadas
 
-### ✉️E-mail & Presença Digital
+### E-mail & Presença Digital
 * **[Holehe](https://github.com/megadose/holehe):** Verifica se um e-mail está cadastrado em mais de 120 plataformas/serviços web via requisições passivas.
 * **[h8mail](https://github.com/khast3x/h8mail):** Ferramenta para verificação de vazamento de credenciais e e-mails em bases públicas de Data Breaches.
 
@@ -22,7 +22,7 @@ Repositório destinado à documentação e mapeamento de ferramentas e metodolog
 
 ---
 
-## ⚖️Conformidade e Amparo Legal
+## Conformidade e Amparo Legal
 
 Todas as análises conduzidas utilizando estas ferramentas enquadram-se estritamente na coleta de dados públicos e ostensivos:
 * **Sem transposição de barreiras:** Não envolve exploração de vulnerabilidades, acesso não autorizado ou invasão de dispositivo (conforme o Art. 154-A do Código Penal).
@@ -30,7 +30,7 @@ Todas as análises conduzidas utilizando estas ferramentas enquadram-se estritam
 
 ---
 
-## ⚙️Instalação Rápida no Linux
+## Instalação Rápida no Linux
 
 ```bash
 # Atualizar repositórios e instalar utilitários de sistema
